@@ -1,0 +1,17 @@
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\mycode_net.exe
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\mycode_net.deps.json
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\mycode_net.runtimeconfig.json
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\mycode_net.dll
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\mycode_net.pdb
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.csproj.AssemblyReference.cache
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.AssemblyInfoInputs.cache
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.AssemblyInfo.cs
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.dll
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\refint\mycode_net.dll
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.pdb
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.genruntimeconfig.cache
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\ref\mycode_net.dll
+C:\Users\DANIEL\desktop\mycode_net\bin\Debug\net6.0\FluentColorConsole.dll
+C:\Users\DANIEL\desktop\mycode_net\obj\Debug\net6.0\mycode_net.csproj.CopyComplete
